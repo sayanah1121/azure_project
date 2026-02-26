@@ -1,0 +1,9 @@
+{
+	"name": "df-sayan-spotify",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4269b6fd-bdc3-4525-b686-b4e1d128cc82",
+		"tenantId": "b7d341e7-5f4c-4f5c-b401-d0d7ea6b5673"
+	}
+}
