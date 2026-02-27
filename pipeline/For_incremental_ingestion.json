@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "ForEach1",
+				"name": "multiple_table_load",
 				"type": "ForEach",
 				"dependsOn": [],
 				"userProperties": [],
@@ -324,7 +324,7 @@
 				"type": "WebActivity",
 				"dependsOn": [
 					{
-						"activity": "ForEach1",
+						"activity": "multiple_table_load",
 						"dependencyConditions": [
 							"Skipped",
 							"Failed",
